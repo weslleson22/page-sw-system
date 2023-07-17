@@ -5,9 +5,11 @@ import { Contact } from './pages/contact/Contact'
 import { Equipe } from './pages/equipe/Equipe'
 import { Gallery } from './pages/gallery/Gallery'
 import { NotFound } from './pages/notFound/NotFound'
+// eslint-disable-next-line
 import { Plans } from './pages/plans/Plans'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import NavBar from './components/NavBar'
+// eslint-disable-next-line
 
 const App = () => {
   return (
