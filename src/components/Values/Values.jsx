@@ -1,4 +1,4 @@
-import './values.css';
+import './vvalues.css';
 import Image from '../../images/Sobre/02-missao.jpg';
 
 import SectionHead from "../sectionHeader/SectionHead";
