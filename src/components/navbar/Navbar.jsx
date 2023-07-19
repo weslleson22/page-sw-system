@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState} from "react";
 import {Link, NavLink} from 'react-router-dom'
-import './navbar.css'
+import './1navbar.css'
 import {FaBars} from 'react-icons/fa' 
 import {MdOutlineClose} from "react-icons/md";
 import Logo from '../../images/logo-SW-1.png'
