@@ -25,7 +25,9 @@ export const links = [
     {
         name: "Contato",
         path: '/contact'
-    }
+    },
+    
+
 ]
 
 
