@@ -1,153 +1,128 @@
 import {SiOpenaigym} from 'react-icons/si'
 
 import React from 'react'
-
 export const links = [
     {
         name: "Home",
         path: '/'
     },
     {
-        name: "About",
+        name: "Sobre",
         path: '/about'
     },
     {
-        name: "Gallery",
+        name: "Galeria",
         path: '/gallery'
     },
     {
-        name: "Plans",
+        name: "Planos",
         path: '/plans'
     },
     {
-        name: "Trainers",
+        name: "Equipe",
         path: '/trainers'
     },
     {
-        name: "Contact",
+        name: "Contato",
         path: '/contact'
     }
 ]
-
-
-
-
-
 
 
 export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Program One",
+        title: "Fuções 1",
         info: "This is the day that the lord has made. We will rejoice!",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Program Two",
+        title: "Fuções 2",
         info: "This is the day that the lord has made. We will rejoice!",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Program Three",
+        title: "Fuções 3",
         info: "This is the day that the lord has made. We will rejoice!",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Program Four",
+        title: "Fuções 4",
         info: "This is the day that the lord has made. We will rejoice!",
         path: "/programs/444"
     }
 ]
-
-
-
-
-
-
-
-
+//
+//
 export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
+        title: "Valores 1",
         desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
+        title: "Valores 2",
         desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
+        title: "Valores 2",
         desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
+        title: "Valores 3",
         desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
     }
 ]
-
-
-
-
-
-
-
-
-
+//
+//
 export const faqs = [
     {
         id: 1,
-        question: "How often should I exercise?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        question: "Com que frequência devo me exercitar?",
+        answer: ""
     },
     {
         id: 2,
-        question: "What time of day is best to work out?",
+        question: "Que hora do dia é melhor para treinar?",
         answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
     },
     {
         id: 3,
-        question: "How long should my workouts be?",
+        question: "Qual deve ser a duração dos meus treinos?",
         answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
     },
     {
         id: 4,
-        question: "Do I need to warm up before my workouts?",
+        question: "Preciso me aquecer antes dos treinos?",
         answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
     },
     {
         id: 5,
-        question: "Should I do strength training, cardio or both?",
+        question: "Devo fazer treinamento de força, cardio ou ambos?",
         answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
     },
     {
         id: 6,
-        question: "Should I lift weights for strength training?",
+        question: "Devo levantar pesos para treinamento de força?",
         answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
     }
 ]
-
-
-
-
-
-
-
-
+//
+//
 export const testimonials = [
     {
         id: 1,
@@ -187,15 +162,10 @@ export const testimonials = [
 ]
 
 
-
-
-
-
-
 export const plans = [
     {
         id: 1,
-        name: 'Silver Package',
+        name: 'Pacote Prata',
         desc: 'This package is perfect for beginners who need constant help',
         price: 29.99,
         features: [
@@ -216,7 +186,7 @@ export const plans = [
     },
     {
         id: 2,
-        name: 'Gold Package',
+        name: 'Pacote Ouro',
         desc: 'This is the perfect package for beginners who know what their doing',
         price: 49.99,
         features: [
@@ -237,7 +207,7 @@ export const plans = [
     },
     {
         id: 3,
-        name: 'Platinum Package',
+        name: 'Pacote Platinum',
         desc: 'This package is perfect for busy people who need home service',
         price: 89.99,
         features: [
@@ -259,62 +229,30 @@ export const plans = [
 ]
 
 
-
-
-
-
-
-
-
 const Trainer1 = require('./images/trainer1.jpg')
 const Trainer2 = require('./images/trainer2.jpg')
 const Trainer3 = require('./images/trainer3.jpg')
 const Trainer4 = require('./images/trainer4.jpg')
 const Trainer5 = require('./images/trainer5.jpg')
-const Trainer6 = require('./images/trainer6.jpg')
+const Trainer6 = require('./images/Equipe/michel.jpg')
+const Trainer7 = require('./images/Equipe/wesleson.jpg')
 
 
 export const trainers = [
-    {
-        id: 1,
-        image: Trainer1,
-        name: 'John Doe',
-        job: 'Aerobic Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    },
-    {
-        id: 2,
-        image: Trainer2,
-        name: 'Daniel vinyo',
-        job: 'Speed Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    },
-    {
-        id: 3,
-        image: Trainer3,
-        name: 'Edem Quist',
-        job: 'Flexibility Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    },
-    {
-        id: 4,
-        image: Trainer4,
-        name: 'Shatta Wale',
-        job: 'Body Composition Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    },
-    {
-        id: 5,
-        image: Trainer5,
-        name: 'Diana Ayi',
-        job: 'Circuit Trainer',
-        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    },
+
     {
         id: 6,
+        image: Trainer7,
+        name: 'Wesleson Souza',
+        job: 'DEV FUll Stack',
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+    }
+    ,
+    {
+        id: 7,
         image: Trainer6,
-        name: 'Wayne Carter',
-        job: 'Physical Intelligence Trainer',
+        name: 'Micheç',
+        job: 'CEO SW SYSTEM',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     }
 ]
