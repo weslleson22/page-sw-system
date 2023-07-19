@@ -236,20 +236,28 @@ const Trainer2 = require('./images/trainer2.jpg')
 const Trainer3 = require('./images/trainer3.jpg')
 const Trainer4 = require('./images/trainer4.jpg')
 const Trainer5 = require('./images/trainer5.jpg')*/
+const Trainer5 = require('./images/Equipe/sidney.jpg')
 const Trainer6 = require('./images/Equipe/michel.jpg')
 const Trainer7 = require('./images/Equipe/wesleson.jpg')
 
 
 export const trainers = [
 
+    
+    {
+        id: 5,
+        image: Trainer5,
+        name: 'Siney',
+        job: 'DEV FUll Stack',
+        socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
+    },
     {
         id: 6,
         image: Trainer7,
         name: 'Wesleson Souza',
         job: 'DEV FUll Stack',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
-    }
-    ,
+    },
     {
         id: 7,
         image: Trainer6,
