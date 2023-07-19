@@ -1,4 +1,4 @@
-import './Gallery.css';
+import './gallery.css';
 import Header from "../../components/header/Header";
 import HeaderImage from '../../images/header_bg_3.jpg';
 import React from 'react'

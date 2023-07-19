@@ -1,4 +1,4 @@
-import './Contact.css';
+import './contact.css';
 import {Link} from "react-router-dom";
 import Header from "../../components/header/Header";
 import HeaderImage from '../../images/Sobre/01-historia.jpg';
