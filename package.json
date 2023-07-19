@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
