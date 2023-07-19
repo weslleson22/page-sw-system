@@ -13,7 +13,7 @@ import Footer from "./components/footer/Footer";
 const App = () => {
     return (
         <div>
-            <BrowserRouter basename={'/VawuLens-Gym'}>
+            <BrowserRouter basename={'/'}>
                 <Navbar/>
                 <Routes>
                     <Route path='/' index element={<Home/>}/>
