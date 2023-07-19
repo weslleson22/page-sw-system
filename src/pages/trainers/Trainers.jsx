@@ -1,4 +1,4 @@
-import './trainers.css';
+import './equipe.css';
 import {trainers} from "../../data";
 import Header from "../../components/header/Header";
 import HeaderImage from '../../images/Equipe/logo-header.jpg';
