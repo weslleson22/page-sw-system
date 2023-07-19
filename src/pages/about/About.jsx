@@ -1,4 +1,4 @@
-import './About.css';
+import './about.css';
 import Header from "../../components/header/Header";
 import HeaderImage from '../../images/Sobre/00-capa.jpg'
 import StoryImage from '../../images/Sobre/01-historia.jpg';
