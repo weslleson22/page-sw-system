@@ -1,4 +1,4 @@
-import './Plans.css'
+import './plans.css'
 import {plans} from "../../data";
 import Header from "../../components/header/Header";
 import HeaderImage from '../../images/header_bg_4.jpg';

@@ -1,5 +1,5 @@
 import {useState} from "react";
-import './Testimonials.css'
+import './testimonials.css'
 import SectionHead from "../sectionHeader/SectionHead";
 import {ImQuotesLeft} from "react-icons/im";
 import Card from "../../UI/card/Card";

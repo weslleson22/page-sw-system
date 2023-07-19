@@ -1,4 +1,4 @@
-import './Header.css';
+import './header.css';
 import React from 'react'
 const Header = ({title, image, children}) => {
     return (

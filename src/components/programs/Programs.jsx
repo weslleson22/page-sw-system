@@ -1,4 +1,4 @@
-import './Programs.css'
+import './programs.css'
 import {FaCrown} from "react-icons/fa";
 import SectionHead from "../sectionHeader/SectionHead";
 import {programs} from '../../data'

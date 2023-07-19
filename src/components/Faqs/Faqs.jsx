@@ -1,4 +1,4 @@
-import './Faqs.css';
+import './faqs.css';
 import SectionHead from "../sectionHeader/SectionHead";
 import {FaQuestion} from "react-icons/fa";
 import {faqs} from "../../data";

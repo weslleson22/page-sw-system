@@ -1,6 +1,7 @@
 import Card from "../../UI/card/Card";
 import {Link} from "react-router-dom";
 import React from 'react'
+import './trainers.css'
 const Trainer = ({image, name, jop, socials}) => {
     return (
         <Card className='trainer'>

@@ -1,4 +1,4 @@
-import './Footer.css'
+import './footer.css'
 import {Link} from "react-router-dom";
 import Logo from '../../images/logo-SW-1.png'
 import {FaLinkedin, FaFacebookF} from "react-icons/fa";

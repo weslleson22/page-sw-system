@@ -1,4 +1,4 @@
-import './SectionHead.css'
+import './sectionHead.css'
 import React from 'react'
 const SectionHead = ({icon, title, className}) => {
     return (
