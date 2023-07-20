@@ -4,6 +4,7 @@
     display: grid;
     place-items: center;
     padding-top: 4rem;
+    
 }
 
 .main__header-container {
@@ -15,7 +16,9 @@
     gap: 6rem;
 }
 
-
+.justificado {
+    text-align: justify;
+}
 .main__header-left h4 {
     margin-bottom: 1rem;
     color: var(--color-secondry);

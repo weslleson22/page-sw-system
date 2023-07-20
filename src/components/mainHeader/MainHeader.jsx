@@ -10,7 +10,7 @@ const MainHeader = () => {
                 <div className='main__header-left'>
                     <h4>#MeAlzhmer</h4>
                     <h1>Soluções de software sob medida para suas necessidades comerciais exclusivas</h1>
-                    <p>
+                    <p class="justificado">
                     Somos uma empresa apaixonada por tecnologia, composta por desenvolvedores altamente
                      qualificados e motivados. Nosso objetivo é entregar soluções de software excepcionais, que superem as expectativas dos nossos clientes.
                     </p>
