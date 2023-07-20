@@ -1,15 +1,14 @@
 import './plans.css'
 import {plans} from "../../data";
 import Header from "../../components/header/Header";
-import HeaderImage from '../../images/header_bg_4.jpg';
+import HeaderImage from '../../images/Planos/0001-Idoso.jpg';
 import Card from "../../UI/card/Card";
 import React from 'react'
 const Plans = () => {
     return (
         <>
-            <Header title='Membership Plans' image={HeaderImage}>
-                Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                Aliquot exception similitude eis option Doldrums, query.
+            <Header title='Planos' image={HeaderImage}>
+                Descubra nossos planos personalizados. Escolha o ideal para você. Alcance seus objetivos conosco.
             </Header>
             <section className='plans'>
                 <div className='container plans__container'>

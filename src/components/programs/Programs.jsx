@@ -10,8 +10,8 @@ const Programs = () => {
     return (
         <section className='programs'>
             <div className='container programs__container'>
-                <SectionHead icon={<FaCrown/>} title='Programs'/>
-
+                <SectionHead icon={<FaCrown/>} title='SERVIÇOS'/>
+                <h3>Estamos profundamente comprometidos com o crescimento e o sucesso de nossos clientes.</h3>
                 <div className='programs__wrapper'>
                     {
                         programs.map(({id, icon, title, info, path}) => {

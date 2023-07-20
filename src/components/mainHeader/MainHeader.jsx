@@ -1,7 +1,7 @@
 import React from "react";
 import './mmainHeader.css';
 import {Link} from 'react-router-dom'
-//import Image from '../../images/Home-img/logo.png';
+import Image from '../../images/Home-img/logo.png';
 
 const MainHeader = () => {
     return (
@@ -9,12 +9,12 @@ const MainHeader = () => {
             <div className='container main__header-container'>
                 <div className='main__header-left'>
                     <h4>#MeAlzhmer</h4>
-                    <h1>Veja um pouco do nosso projeto</h1>
+                    <h1>Soluções de software sob medida para suas necessidades comerciais exclusivas</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consecrate radicalising elite. Aliquot
-                        exception similitude eis option Doldrums, query.
+                    Somos uma empresa apaixonada por tecnologia, composta por desenvolvedores altamente
+                     qualificados e motivados. Nosso objetivo é entregar soluções de software excepcionais, que superem as expectativas dos nossos clientes.
                     </p>
-                    <Link to='/plans' className='btn lg'>Iniciar</Link>
+                    <Link to='/plans' className='btn lg'>Saiba mais</Link>
                 </div>
                 <div className='main__header-right'>
                     <div className='main__header-circle'></div>

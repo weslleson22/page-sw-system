@@ -10,8 +10,7 @@ const About = () => {
     return (
         <>
             <Header title='Sobre' image={HeaderImage}>
-                Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                Aliquot exception similitude eis option Doldrums, query.
+            Nosso aplicativo de estimulação cognitiva proporciona exercícios personalizados e divertidos para pacientes com Alzheimer, ajudando a preservar e melhorar suas habilidades cognitivas. Junte-se a nós para promover uma mente ativa e saudável.
             </Header>
             <section className='about__story'>
                 <div className='container about__story-container'>
@@ -21,18 +20,13 @@ const About = () => {
                     <div className='about__section-content'>
                         <h1>Nossa história</h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        A jornada que nos trouxe ao desenvolvimento deste aplicativo para Alzheimer é impulsionada por um propósito profundo e uma paixão incansável por melhorar a qualidade de vida das pessoas afetadas por esta doença debilitante. Ao longo dos anos, testemunhamos de perto o impacto do Alzheimer em pacientes, familiares e cuidadores, e sentimos a necessidade urgente de oferecer uma solução inovadora e compassiva.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        Acreditamos que a tecnologia tem o poder de criar um impacto significativo na vida das pessoas, e com esse pensamento, embarcamos nesta jornada com um objetivo claro: fornecer um apoio abrangente, acessível e personalizado para aqueles que enfrentam os desafios do Alzheimer.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query?
+                        Estamos orgulhosos desta jornada e esperamos que nosso aplicativo possa fazer a diferença na vida das pessoas, tornando a jornada com o Alzheimer mais gerenciável, acolhedora e esperançosa. É com imensa gratidão que seguimos em frente, guiados pela vontade de fazer a diferença e tornar o mundo um lugar melhor para aqueles que enfrentam essa condição desafiadora.
                         </p>
                     </div>
                 </div>
@@ -42,14 +36,10 @@ const About = () => {
                     <div className='about__section-content'>
                         <h1>Nossa Visão</h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        Nosso aplicativo de estimulação cognitiva oferece uma ampla variedade de exercícios interativos, desafios e jogos projetados especificamente para as necessidades dos pacientes com Alzheimer, visando melhorar suas habilidades cognitivas, memória e atenção.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        Nosso serviço de consultoria especializada oferece suporte personalizado, informações atualizadas, estratégias práticas e um espaço seguro para os familiares e cuidadores se sentirem ouvidos e apoiados em sua jornada com o Alzheimer.
                         </p>
                     </div>
                     <div className='about__section-image'>
@@ -65,18 +55,13 @@ const About = () => {
                     <div className='about__section-content'>
                         <h1>Nossa missão</h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        Desenvolveremos uma plataforma online onde os cuidadores poderão criar perfis, participar de fóruns de discussão, compartilhar recursos úteis, ler histórias inspiradoras de outros cuidadores, agendar encontros virtuais e obter orientações de profissionais especializados.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
+                        Nossa equipe de especialistas em Alzheimer fornecerá consultoria individualizada, realizando avaliações das necessidades do paciente, oferecendo informações sobre a doença, orientando sobre técnicas de comunicação efetiva, fornecendo estratégias de gerenciamento comportamental e oferecendo suporte emocional para familiares e cuidadores.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                            Aliquot exception similitude eis option Doldrums, query?
+                        Forneceremos cuidadores experientes e treinados especificamente para lidar com as necessidades dos pacientes com Alzheimer. Eles ajudarão nas atividades diárias, monitorarão a medicação, garantirão a segurança do ambiente e oferecerão apoio emocional e social para o paciente e sua família.
                         </p>
                     </div>
                 </div>

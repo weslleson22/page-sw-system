@@ -10,8 +10,8 @@ const Contact = () => {
     return (
         <>
             <Header title='Entra em contato' image={HeaderImage}>
-                Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                Aliquot exception similitude eis option Doldrums, query.
+                
+Entre em contato conosco e descubra como podemos ajudá-lo(a). Estamos prontos para ouvir suas necessidades e oferecer soluções sob medida. Aguardamos ansiosamente o seu contato!
             </Header>
             <section className='contact'>
                 <div className='container contact__container'>
