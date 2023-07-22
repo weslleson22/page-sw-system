@@ -17,7 +17,7 @@ const Contact02 = () => {
                         <Link to="https://m.me/ernest_achiver" target='_blank' rel='noreferrer'>
                             <BsMessenger/>
                         </Link>
-                        <Link to="https://wa.me/+559894971547" target='_blank' rel='noreferrer'>
+                        <Link to="https://wa.me/+5598984971547" target='_blank' rel='noreferrer'>
                             <IoLogoWhatsapp/>
                         </Link>
                     </div>
