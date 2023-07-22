@@ -1,7 +1,7 @@
 import './01_erro_volta.css';
 import {Link} from "react-router-dom";
 import React from 'react'
-const NotFound = () => {
+const NotFound01 = () => {
     return (
         <section>
             <div className='container notfound__container'>
@@ -11,4 +11,4 @@ const NotFound = () => {
         </section>
     )
 }
-export default NotFound;
+export default NotFound01;
