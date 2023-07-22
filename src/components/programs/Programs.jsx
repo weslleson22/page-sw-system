@@ -18,9 +18,13 @@ const Programs = () => {
                             return (
                                 <Card className='programs__program' key={id}>
                                     <span>{icon}</span>
+                                    <Link  to={path} className='btn sm'>Veja um pouco!<AiFillCaretRight/></Link>
+                                    
                                     <h4>{title}</h4>
+                                    
                                     <small>{info}</small>
-                                    <Link to={path} className='btn sm'>Learn More<AiFillCaretRight/></Link>
+                                   
+                                    
                                 </Card>
                             )
                         })

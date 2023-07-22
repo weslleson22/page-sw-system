@@ -35,29 +35,29 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Fuções 1",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "App MeAlzheimer",
+        info: " Aplicativo mobile para portadores de Alzheimer veja um pouco mas aqui!",
         path: "/programs/111"
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Fuções 2",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Desenvolvimento Web",
+        info: "Somos especializados na criação e otimização de sites personalizados de alta qualidade para empresas e organizações de todos os tamanhos. Criação de sites e aplicativos compatíveis com dispositivos móveis e fáceis de usar para clientes.!",
         path: "/programs/222"
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Fuções 3",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Desenvolvimento de Aplicativos móveis",
+        info: "Desenvolvemos aplicativos móveis multiplataforma personalizados e de alta qualidade, robustos e otimizados para desempenho, escalabilidade e acessibilidade.!",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Fuções 4",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Consultoria gerais de TI",
+        info: "Nosso serviço de consultoria de TI fornece orientação especializada e suporte para empresas e indivíduos que buscam otimizar suas soluções de tecnologia.!",
         path: "/programs/444"
     }
 ]
@@ -67,26 +67,26 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Valores 1",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Inovação",
+        desc: "Priorizar a inovação significa estimular a criatividade e a busca por soluções novas e melhores. Essa valorização da inovação é fundamental para o desenvolvimento de produtos ou serviços tecnológicos que atendam às necessidades dos clientes e se destaquem no mercado."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Valores 2",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Qualidade",
+        desc: "A busca pela qualidade é essencial em empresas de tecnologia. Garantir que os produtos e serviços entregues atendam ou superem as expectativas dos clientes é uma maneira de construir uma reputação sólida e manter a satisfação do público."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Valores 2",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Foco no cliente",
+        desc: "Valorizar o cliente é um aspecto crucial para empresas de tecnologia. Colocar o cliente no centro das decisões, ouvindo suas necessidades e respondendo às suas demandas, ajuda a construir relacionamentos duradouros e a criar soluções verdadeiramente úteis e alinhadas com as expectativas do mercado."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Valores 3",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Trabalho em equipe e colaboração",
+        desc: "O trabalho em equipe é essencial para empresas de tecnologia, onde projetos muitas vezes exigem a colaboração de diferentes especialidades e habilidades. Valorizar a colaboração incentiva uma cultura de compartilhamento de conhecimentos, habilidades e experiências, o que pode levar a um aumento da produtividade e da criatividade da equipe."
     }
 ]
 //

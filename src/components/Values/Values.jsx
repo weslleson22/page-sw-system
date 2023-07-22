@@ -18,8 +18,7 @@ const Values = () => {
                 </div>
                 <div className='values__right'>
                     <SectionHead icon={<GiCutDiamond/>} title='Valores'/>
-                    <p>Lorem ipsum dolor sit amet, consecrate radicalising elite. Aliquot
-                        exception similitude eis option Doldrums, query.</p>
+                    <p>Agora, vamos conhecer os quatro valores que são frequentemente destacados pelas nossa empresa de tecnologia para atingir nossos objetivos e manter uma cultura organizacional positiva e inovadora.</p>
                     <div className='values__wrapper'>
                         {
                             values.map(({id, icon, title, desc}) => {

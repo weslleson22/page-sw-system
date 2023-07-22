@@ -2,8 +2,12 @@
     display: grid;
     grid-template-columns: 38% 50%;
     gap: 12%;
+    text-align: justify;
+    
 }
-
+.p {
+    text-align: justify;
+}
 .values__image {
     filter: saturate(0.25);
     transition: var(--transition);
@@ -21,12 +25,14 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 3.4rem 2.4rem;
+    text-align: justify;
 }
 
 .card.values__value {
     padding-top: 3.5em;
     text-align: left;
     position: relative;
+    text-align: justify;
 }
 
 .card.values__value span {
@@ -45,6 +51,7 @@
 
     .values__wrapper {
         gap: 4rem 3rem;
+        text-align: justify;
     }
 
     .values__image {

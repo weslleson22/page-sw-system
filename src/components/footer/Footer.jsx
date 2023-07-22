@@ -13,8 +13,7 @@ const Footer = () => {
                         <img src={Logo} alt='Footer Logo'/>
                     </Link>
                     <p>
-                        Lorem ipsum dolor sit amet, consecrate radicalising
-                        elite. Aliquot exception similitude eis option Doldrums, query.
+                    Soluções de software sob medida para suas necessidades comerciais exclusivas 😄.
                     </p>
                     <div className='footer__socials'>
                         <Link to='https://www.linkedin.com/' target='_blank' rel='noreferrer noopener'>
