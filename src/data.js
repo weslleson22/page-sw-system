@@ -37,7 +37,7 @@ export const programs = [
         icon: <SiOpenaigym/>,
         title: "App MeAlzheimer",
         info: " Aplicativo mobile para portadores de Alzheimer veja um pouco mas aqui!",
-        path: "/about"
+        path: "https://page-app-me-alzheimer.vercel.app/"
     },
     {
         id: 2,
