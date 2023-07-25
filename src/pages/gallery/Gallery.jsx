@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import HeaderImage from '../../images/header_bg_3.jpg';
 import React from 'react'
 const Gallery = () => {
-    const galleryLength = 8;
+    const galleryLength = 4;
     const images = [];
     for (let i = 1; i <= galleryLength; i++) {
         images.push(require(`../../images/figuras/gallery${i}.jpg`));
