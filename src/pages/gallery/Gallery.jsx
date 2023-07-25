@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import HeaderImage from '../../images/header_bg_3.jpg';
 import React from 'react'
 const Gallery = () => {
-    const galleryLength = 15;
+    const galleryLength = 8;
     const images = [];
     for (let i = 1; i <= galleryLength; i++) {
         images.push(require(`../../images/figuras/gallery${i}.jpg`));
@@ -11,8 +11,7 @@ const Gallery = () => {
     return (
         <>
             <Header title='Our Gallery' image={HeaderImage}>
-                Lorem ipsum dolor sit amet, consecrate radicalising elite.
-                Aliquot exception similitude eis option Doldrums, query.
+                Alguns trabalhos
             </Header>
             <section className='gallery'>
                 <div className='container gallery__container'>

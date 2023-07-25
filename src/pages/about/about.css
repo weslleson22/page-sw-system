@@ -35,9 +35,7 @@
 .about__section-content {
     text-align: justify;
 }
-.h1 {
-    text-align: justify;
-}
+
 /* Media Queries ( medium screens ) */
 @media screen and (max-width: 1024px) {
     .about__section-image {

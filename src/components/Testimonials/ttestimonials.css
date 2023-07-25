@@ -1,6 +1,7 @@
 .testimonials {
     width: 50rem;
     margin-inline: auto;
+    text-align: justify;
 }
 
 .testimonials__head {
@@ -11,6 +12,7 @@
     position: relative;
     text-align: left;
     margin-top: 5rem;
+    text-align: justify;
 }
 
 .testimonial__avatar {

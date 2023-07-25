@@ -94,33 +94,33 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "Com que frequência devo me exercitar?",
-        answer: ""
+        question: "Como posso entrar em contato com a equipe de suporte técnico em caso de dúvidas ou problemas?",
+        answer: "Você pode entrar em contato com nossa equipe de suporte técnico através do telefone 98 984971547 ou por e-mail sw.suportedev@gmail.com endereço de e-mail."
     },
     {
         id: 2,
-        question: "Que hora do dia é melhor para treinar?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        question: "Quais serviços sua empresa de tecnologia oferece?",
+        answer: "Nossa empresa de tecnologia oferece uma variedade de serviços, incluindo desenvolvimento de software personalizado, consultoria tecnológica, desenvolvimento de aplicativos móveis e muito mais."
     },
     {
         id: 3,
-        question: "Qual deve ser a duração dos meus treinos?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        question: "Que tipos de tecnologias ou soluções sua empresa utiliza para desenvolver seus produtos/serviços?",
+        answer: "Utilizamos tecnologias de ponta, incluindo linguagens de programação modernas, frameworks e ferramentas para desenvolver nossos produtos e serviços."
     },
     {
         id: 4,
-        question: "Preciso me aquecer antes dos treinos?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        question: "Qual é o processo de desenvolvimento de software que sua empresa segue?",
+        answer: "Seguimos um processo de desenvolvimento ágil, que permite maior flexibilidade e entrega de valor incremental ao longo do projeto.!"
     },
     {
         id: 5,
-        question: "Devo fazer treinamento de força, cardio ou ambos?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
+        question: "Vocês oferecem serviços de consultoria tecnológica para empresas?",
+        answer: "Sim, oferecemos serviços de consultoria tecnológica para ajudar empresas a identificar e implementar soluções que otimizem suas operações e alcancem seus objetivos."
     },
     {
         id: 6,
-        question: "Devo levantar pesos para treinamento de força?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        question: "Qual é a política de privacidade e segurança de dados da sua empresa?",
+        answer: "Nossa empresa possui uma rigorosa política de privacidade e segurança de dados para proteger as informações confidenciais dos nossos clientes."
     }
 ]
 //
@@ -129,35 +129,35 @@ export const testimonials = [
     {
         id: 1,
         name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        quote: "Estamos extremamente satisfeitos com o atendimento da equipe da Sw System. O suporte técnico foi ágil e eficiente durante todo o projeto, garantindo que nossas necessidades fossem atendidas em tempo hábil. O resultado final superou nossas expectativas, e definitivamente recomendamos seus serviços.",
         job: "Student",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
         name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "O suporte oferecido pela equipe da Sw System foi excepcional. Eles foram prestativos, respondendo prontamente a todas as nossas dúvidas e preocupações. Além disso, a qualidade do software entregue foi excelente, o que nos ajudou a otimizar nossos processos internos. Recomendamos seus serviços a todos!",
         job: "Software Egineer",
         avatar: require("./images/avatar2.jpg")
     },
     {
         id: 3,
         name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "Ficamos impressionados com o profissionalismo e a expertise da equipe da Sw System. Eles entenderam perfeitamente nossas necessidades e entregaram um software que atendeu a todas as nossas expectativas. O suporte pós-implantação também tem sido muito eficiente. Sem dúvida, escolheríamos trabalhar com eles novamente.",
         job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
     {
         id: 4,
         name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        quote: "Queríamos agradecer à equipe da Sw System por sua dedicação e empenho no desenvolvimento do nosso projeto de software. O processo foi conduzido de forma transparente, e o resultado final é simplesmente fantástico. Obrigado pelo excelente atendimento e pela solução que nos proporcionou mais eficiência em nossas operações.",
         job: "Talking Parrot",
         avatar: require("./images/avatar4.jpg")
     },
     {
         id: 5,
         name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        quote: "Trabalhar com a equipe da Sw System foi uma escolha acertada. Desde o primeiro contato, eles demonstraram total comprometimento em entender nossas necessidades e oferecer soluções personalizadas para o nosso negócio. O acompanhamento durante todo o projeto foi excepcional, e o resultado final superou todas as nossas expectativas. Recomendamos seus serviços sem hesitação!",
         job: "Pharmacist",
         avatar: require("./images/avatar5.jpg")
     }
@@ -167,65 +167,42 @@ export const testimonials = [
 export const plans = [
     {
         id: 1,
-        name: 'Pacote Prata',
-        desc: 'This package is perfect for beginners who need constant help',
-        price: 29.99,
+        name: 'Plano 1: "Desenvolvimento Web"',
+        desc: 'Web Desenvolvimento: Desenvolvimento e implantação de websites responsivos e personalizados, alinhados com a identidade visual da sua empresa.',
+        price: 1000,
         features: [
-            {feature: 'First Feature', available: true},
-            {feature: 'Second Feature', available: true},
-            {feature: 'Third Feature', available: true},
-            {feature: 'Fourth Feature', available: true},
-            {feature: 'Fifth Feature', available: true},
-            {feature: 'Fifth Feature Plus', available: false},
-            {feature: 'Sixth Feature', available: false},
-            {feature: 'Seventh Feature', available: false},
-            {feature: 'Seventh Feature Plus', available: false},
-            {feature: 'Eighth Feature', available: false},
-            {feature: 'Ninth Feature', available: false},
-            {feature: 'Tenth Feature', available: false},
-            {feature: 'Eleventh Feature', available: false}
+            {feature: 'Suporte Técnico Prioritário',available: true},
+            {feature: 'Manutenção Preventiva:', available: true},
+            {feature: 'Ajuste na pagina', available: true},
+            {feature: ' Análise de Segurança', available: true},
+      
         ]
     },
     {
         id: 2,
-        name: 'Pacote Ouro',
-        desc: 'This is the perfect package for beginners who know what their doing',
-        price: 49.99,
+        name: 'Plano 2: Desenvolvimento de Aplicativos Móveis',
+        desc: 'Desenvolvimento de Aplicativos Móveis: Criação de aplicativos móveis personalizados para iOS e Android, oferecendo uma experiência exclusiva para os usuários.',
+        price: 2500,
         features: [
-            {feature: 'First Feature', available: true},
-            {feature: 'Second Feature', available: true},
-            {feature: 'Third Feature', available: true},
-            {feature: 'Fourth Feature', available: true},
-            {feature: 'Fifth Feature', available: true},
-            {feature: 'Fifth Feature Plus', available: true},
-            {feature: 'Sixth Feature', available: true},
-            {feature: 'Seventh Feature', available: true},
-            {feature: 'Seventh Feature Plus', available: true},
-            {feature: 'Eighth Feature', available: false},
-            {feature: 'Ninth Feature', available: false},
-            {feature: 'Tenth Feature', available: false},
-            {feature: 'Eleventh Feature', available: false}
+            {feature: 'Resolução de Problemas Remotos:', available: true},
+            {feature: 'Suporte Técnico Prioritário',available: true},
+            {feature: 'Manutenção Preventiva:', available: true},
+            
         ]
     },
     {
         id: 3,
-        name: 'Pacote Platinum',
-        desc: 'This package is perfect for busy people who need home service',
-        price: 89.99,
+        name: 'Plano 3: Consultoria ferais de TI',
+        desc: 'Consultoria em Redes Avançada: Configurações avançadas de protocolos, criação de dashboards e indicadores para monitorar o desempenho da rede da sua empresa.',
+        price: 1000,
         features: [
-            {feature: 'First Feature', available: true},
-            {feature: 'Second Feature', available: true},
-            {feature: 'Third Feature', available: true},
-            {feature: 'Fourth Feature', available: true},
-            {feature: 'Fifth Feature', available: true},
-            {feature: 'Fifth Feature Plus', available: true},
-            {feature: 'Sixth Feature', available: true},
-            {feature: 'Seventh Feature', available: true},
-            {feature: 'Seventh Feature Plus', available: true},
-            {feature: 'Eighth Feature', available: true},
-            {feature: 'Ninth Feature', available: true},
-            {feature: 'Tenth Feature', available: true},
-            {feature: 'Eleventh Feature', available: true}
+            {feature: 'Resolução de Problemas Remotos:', available: true},
+            {feature: 'Suporte Técnico Prioritário',available: true},
+            {feature: 'Orientações:', available: true},
+            {feature: ' Análise de Segurança', available: true},
+            
+         
+          
         ]
     }
 ]

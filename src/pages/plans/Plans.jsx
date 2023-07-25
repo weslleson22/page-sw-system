@@ -17,8 +17,8 @@ const Plans = () => {
                             return <Card key={id} className='plan'>
                                 <h3>{name}</h3>
                                 <small>{desc}</small>
-                                <h1>{`${price}`}</h1><h2>/R$</h2>
-                                <h4>Features</h4>
+                                <h2>R$ </h2><h1>{`${price}`}</h1>
+                                <h4>Características</h4>
                                 {
                                     features.map(({feature, available}, index) => {
                                         return <p key={index} className={!available ? 'disabled' : ''}>

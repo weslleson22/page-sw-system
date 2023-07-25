@@ -13,9 +13,9 @@ const About = () => {
     return (
         <>
             <Header title='Sobre' image={HeaderImage}>
-            Nosso aplicativo de estimulação cognitiva proporciona exercícios personalizados e divertidos para pacientes com Alzheimer, ajudando a preservar e melhorar suas habilidades cognitivas. Junte-se a nós para promover uma mente ativa e saudável.
+            
             </Header>
-            <SectionHead icon={<FaCrown/>} title='App MeAlzheimer'/>
+            <SectionHead />
             
             <section className='about__story'>
                 <div className='container about__story-container'>
@@ -24,31 +24,21 @@ const About = () => {
                     </div>
                     <div className='about__section-content'>
                         
-                    <h1>1. Manchete:</h1>
-                    <p>
-                    😁 MEAlzheimer: Inovação no tratamento do Alzheimer.
-                    </p>
-                    <p>
-                    😁Descubra uma nova maneira de lidar com o Alzheimer com MEAlzheimer.
-                    </p>
-
-                    <p>
-                    😁 MEAlzheimer: O futuro do gerenciamento do Alzheimer está aqui.
-                    </p>
-
-                    <p>
-                    😁 Inovação e tecnologia a serviço do combate ao Alzheimer.
-                    </p>
-                        <h1>Nossa história</h1>
+                    
+                        <h1>    📚🌟📖Nossa história📚🌟📖</h1>
 
                         <p>
-                        A jornada que nos trouxe ao desenvolvimento deste aplicativo para Alzheimer é impulsionada por um propósito profundo e uma paixão incansável por melhorar a qualidade de vida das pessoas afetadas por esta doença debilitante. Ao longo dos anos, testemunhamos de perto o impacto do Alzheimer em pacientes, familiares e cuidadores, e sentimos a necessidade urgente de oferecer uma solução inovadora e compassiva.
+                        Era o ano de 2017, e Wesleson Souza, um estudante dedicado de Análise e Desenvolvimento de Sistemas, estava prestes a se formar na universidade. Desde o início do curso, Wesleson sempre foi apaixonado por tecnologia e tinha habilidades excepcionais em programação.
                         </p>
                         <p>
-                        Acreditamos que a tecnologia tem o poder de criar um impacto significativo na vida das pessoas, e com esse pensamento, embarcamos nesta jornada com um objetivo claro: fornecer um apoio abrangente, acessível e personalizado para aqueles que enfrentam os desafios do Alzheimer.
+                        Durante seus anos de estudo, Wesleson participou de diversos projetos acadêmicos, onde se destacou pela sua capacidade de desenvolver soluções inovadoras e eficientes através de software. Sua mente inquisitiva o levava constantemente a explorar novas tecnologias e tendências do mercado. Enquanto estava imerso nos estudos e no universo da programação, Wesleson começou a perceber uma grande oportunidade no mercado. Ele notou que muitas empresas locais, especialmente as pequenas e médias empresas, ainda não estavam aproveitando todo o potencial das soluções de software personalizadas para suas necessidades específicas. Foi então que Wesleson teve um insight transformador. Ele percebeu que poderia utilizar seus conhecimentos em desenvolvimento de sistemas para ajudar essas empresas a alavancarem seus negócios, otimizando processos e melhorando a eficiência operacional.
                         </p>
                         <p>
-                        Estamos orgulhosos desta jornada e esperamos que nosso aplicativo possa fazer a diferença na vida das pessoas, tornando a jornada com o Alzheimer mais gerenciável, acolhedora e esperançosa. É com imensa gratidão que seguimos em frente, guiados pela vontade de fazer a diferença e tornar o mundo um lugar melhor para aqueles que enfrentam essa condição desafiadora.
+                        Movido por sua paixão pela programação e seu desejo de fazer a diferença no mundo dos negócios, Wesleson decidiu fundar sua própria empresa de desenvolvimento de software. Ele acreditava que sua visão e habilidades poderiam impactar positivamente a forma como as empresas utilizavam a tecnologia para alcançar seus objetivos.
+
+                        Com dedicação e empenho, Wesleson estabeleceu sua empresa e, ao longo dos anos, conquistou a confiança de diversos clientes, entregando soluções de software sob medida para suas necessidades específicas. Sua empresa cresceu e se tornou conhecida no mercado por sua excelência no desenvolvimento de sistemas.
+
+                        Hoje, Wesleson Souza é reconhecido como um empreendedor visionário e um talentoso desenvolvedor de sistemas. Sua jornada de sucesso é um exemplo inspirador para os alunos que também sonham em transformar suas paixões em empreendimentos bem-sucedidos no mundo da tecnologia.
                         </p>
                     </div>
                 </div>
@@ -57,30 +47,18 @@ const About = () => {
                 <div className='container about__vision-container'>
                     <div className='about__section-content'>
                         
-                        <h1>Descrição da Oferta</h1>
-
+                        <h1> 🚀Oferta Especial de Desenvolvimento de Software e Consultoria 🚀</h1>
                         <p>
-                        😁O MEAlzheimer reúne a mais recente tecnologia para ajudar você e seus entes queridos na jornada do Alzheimer.
+                        Aproveite nossa oferta exclusiva de desenvolvimento de software e consultoria personalizada para alavancar o potencial do seu negócio! Nossa equipe de especialistas em tecnologia está pronta para criar soluções sob medida, impulsionando a eficiência e a inovação da sua empresa. Entre em contato agora mesmo e descubra como podemos transformar suas ideias em realidade! 💡💻 #DesenvolvimentoDeSoftware #ConsultoriaTecnológica #Inovação #Eficiência #TransformaçãoDigital
                         </p>
-                        <p>
-                        😁Nossa plataforma inovadora oferece suporte à memória, gerenciamento de tarefas, lembretes de medicação e muito mais.
-                       </p>
-                      
-                       <p>
-                       😁Descubra como a inovação pode melhorar o dia a dia de quem convive com o Alzheimer.
-                        </p>
-
-                        <p>
-                        😁Com a tecnologia inovadora do MEAlzheimer, tenha uma nova abordagem no tratamento do Alzheimer
-                       </p>
                       
                        
-                        <h1>Nossa Visão</h1>
+                        <h1>🌟 Nossa Visão 🌟</h1>
                         <p>
-                        Nosso aplicativo de estimulação cognitiva oferece uma ampla variedade de exercícios interativos, desafios e jogos projetados especificamente para as necessidades dos pacientes com Alzheimer, visando melhorar suas habilidades cognitivas, memória e atenção.
+                        Na nossa empresa de desenvolvimento de software e consultoria, buscamos ser líderes na transformação digital, oferecendo soluções tecnológicas inovadoras e personalizadas para impulsionar o crescimento e o sucesso dos nossos clientes. Visamos ser reconhecidos como parceiros confiáveis, capacitando empresas de todos os tamanhos a atingirem seu máximo potencial por meio da tecnologia.
                         </p>
                         <p>
-                        Nosso serviço de consultoria especializada oferece suporte personalizado, informações atualizadas, estratégias práticas e um espaço seguro para os familiares e cuidadores se sentirem ouvidos e apoiados em sua jornada com o Alzheimer.
+                        Acreditamos que, ao abraçar constantemente a evolução tecnológica e promover um ambiente colaborativo, seremos a escolha preferencial para aqueles que buscam o aprimoramento contínuo dos seus negócios. Nossa visão é inspirar e capacitar a jornada de transformação digital das empresas, trazendo inovação e eficiência para cada projeto que nos é confiado. 💡💼🚀 #TransformaçãoDigital #Inovação #ParceirosTecnológicos #Eficiência #CrescimentoEmpresarial.
                         </p>
                     </div>
                     <div className='about__section-image'>
@@ -94,15 +72,18 @@ const About = () => {
                         <img src={MissionImage} alt='Our Mission'/>
                     </div>
                     <div className='about__section-content'>
-                        <h1>Nossa missão</h1>
+                        <h1>🎯 Nossa Missão 🎯</h1>
                         <p>
-                        Desenvolveremos uma plataforma online onde os cuidadores poderão criar perfis, participar de fóruns de discussão, compartilhar recursos úteis, ler histórias inspiradoras de outros cuidadores, agendar encontros virtuais e obter orientações de profissionais especializados.
+                        Nossa missão é proporcionar um impacto significativo e positivo no mundo dos negócios, através do desenvolvimento de software e consultoria tecnológica de excelência. Buscamos entender profundamente as necessidades dos nossos clientes e oferecer soluções personalizadas que impulsionem sua produtividade, eficiência e competitividade no mercado.
                         </p>
                         <p>
-                        Nossa equipe de especialistas em Alzheimer fornecerá consultoria individualizada, realizando avaliações das necessidades do paciente, oferecendo informações sobre a doença, orientando sobre técnicas de comunicação efetiva, fornecendo estratégias de gerenciamento comportamental e oferecendo suporte emocional para familiares e cuidadores.
+                        Com dedicação e paixão pela inovação, estamos comprometidos em oferecer serviços de alta qualidade, mantendo a ética e a transparência em todas as nossas interações. Através de uma abordagem colaborativa, trabalhamos em estreita parceria com nossos clientes, fornecendo orientação estratégica e suporte técnico para alcançar seus objetivos empresariais.
                         </p>
                         <p>
-                        Forneceremos cuidadores experientes e treinados especificamente para lidar com as necessidades dos pacientes com Alzheimer. Eles ajudarão nas atividades diárias, monitorarão a medicação, garantirão a segurança do ambiente e oferecerão apoio emocional e social para o paciente e sua família.
+                        Acreditamos que, ao cumprir nossa missão com excelência, não apenas contribuímos para o crescimento dos nossos clientes, mas também para o avanço da sociedade como um todo, através da tecnologia como catalisador do progresso.
+                        </p>
+                        <p>
+                        Junte-se a nós nessa jornada de inovação e transformação. Estamos prontos para sermos o seu parceiro confiável, guiando-o rumo ao sucesso nos desafios tecnológicos do futuro. 💼💻🚀 #Inovação #TransformaçãoDigital #Excelência #ParceiroConfiança #ProgressoTecnológico
                         </p>
                     </div>
                     <h1>Formulário de Contato:</h1>
