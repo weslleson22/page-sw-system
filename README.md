@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# S W Development — S W Systems LTDA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portal institucional oficial e catálogo de soluções tecnológicas da **S W Systems LTDA** (Nome Fantasia: **S W Development**).
 
-## Available Scripts
+[![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![CNPJ](https://img.shields.io/badge/CNPJ-39.825.909%2F0001--14-slate?style=flat-square)](https://swsystems.com.br)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🏛️ Dados Institucionais & Governança
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Razão Social:** S W Systems LTDA
+- **Nome Comercial / Fantasia:** S W Development
+- **CNPJ:** 39.825.909/0001-14 (Empresa ativa desde 18/11/2020)
+- **Localização:** São Luís - Maranhão, Brasil
+- **Liderança Técnica:**
+  - **Wesleson Souza Silva** — Sócio-Administrador & Head de Tecnologia
+  - **Sidney Silva Martins** — Sócio & Diretor de Operações
+- **Atendimento e Suporte:**
+  - WhatsApp: `(98) 98497-1547`
+  - E-mail: `swdevelopmentsuporte@gmail.com`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔒 Conformidade Legal e Segurança de Pagamentos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O portal foi construído em estrita consonância com a legislação brasileira e normas de segurança em comércio eletrônico:
 
-### `npm run build`
+1. **Decreto Federal nº 7.962/2013 (Lei do E-commerce):**
+   - Identificação completa da pessoa jurídica, endereço e canais de suporte acessíveis em todas as páginas.
+2. **Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018):**
+   - Política de privacidade formal em [`/privacidade`](/privacidade).
+   - Não armazenamento de dados sensíveis de cartão nos servidores da empresa (tokenização integral via gateway regulado).
+3. **Código de Defesa do Consumidor (Artigo 49 da Lei nº 8.078/1990):**
+   - Política de cancelamento e direito de arrependimento (7 dias corridos com 100% de reembolso) em [`/reembolso`](/reembolso).
+4. **Termos de Uso e Contratação:**
+   - Licenciamento claro das soluções SaaS e contratos de prestação de serviços em [`/termos`](/termos).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Ecossistema e Produtos em Destaque
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 💈 BarberShop SaaS
+Plataforma completa de gestão operacional e financeira para barbearias, estúdios e salões:
+- **Agendamento Online 24/7:** Link personalizado para clientes sem necessidade de download.
+- **Checkout Integrado e Seguro:** Cobrança por **Pix Instantâneo** e **Cartão de Crédito**.
+- **Gestão de Comissões e Finanças:** Fechamento diário e divisão automática entre profissionais.
+- **Demonstração em Produção:** [barber-shop-dev-self.vercel.app](https://barber-shop-dev-self.vercel.app/)
+- **Lembretes via WhatsApp:** Redução comprovada de até 85% em no-shows.
 
-### `npm run eject`
+#### Planos Transparentes:
+- **Plano Start:** R$ 69,90/mês (Até 2 profissionais)
+- **Plano Pro (Mais Popular):** R$ 129,90/mês (Até 5 profissionais)
+- **Plano Enterprise:** R$ 249,90/mês (Profissionais e unidades ilimitadas)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🧠 App MeAlzheimer (Saúde Digital & Mobile)
+Aplicativo mobile e plataforma voltada para portadores de Alzheimer e seus cuidadores/familiares:
+- **Alta Acessibilidade:** Interfaces com alto contraste, fontes ampliadas e facilidade de navegação.
+- **Lembretes e Rotinas:** Alarmes sonoros e visuais inteligentes para medicamentos e atividades diárias.
+- **Localização & Segurança:** Botão de emergência e histórico de rotinas em tempo real.
+- **Demonstração em Produção:** [page-app-me-alzheimer.vercel.app](https://page-app-me-alzheimer.vercel.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠️ Stack Tecnológica
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Framework:** Next.js 14 (App Router)
+- **Linguagem:** TypeScript
+- **Estilização:** Tailwind CSS (Paleta técnica Slate/Zinc/Cobalt, Anti-AI Look)
+- **Ícones:** Lucide React
+- **Motion & Microinterações:** Transições fluidas baseadas em cubic-bezier profissional
+- **Deploy:** Vercel
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 💻 Como Rodar Localmente
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Instalar dependências
+npm install
 
-### Code Splitting
+# Iniciar servidor de desenvolvimento
+npm run dev
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Gerar build de produção
+npm run build
 
-### Analyzing the Bundle Size
+# Executar bundle de produção
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© S W Systems LTDA. Todos os direitos reservados.

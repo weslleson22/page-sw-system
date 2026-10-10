@@ -16,7 +16,7 @@ Entre em contato conosco e descubra como podemos ajudá-lo(a). Estamos prontos p
             <section className='contact'>
                 <div className='container contact__container'>
                     <div className='contact__wrapper'>
-                        <Link to="mailto:wesllesonsowza@gmail.com" target='_blank' rel='noreferrer'>
+                        <Link to="mailto:swdevelopmentsuporte@gmail.com" target='_blank' rel='noreferrer'>
                             <MdEmail/>
                         </Link>
                         <Link to="https://m.me/ernest_achiver" target='_blank' rel='noreferrer'>
